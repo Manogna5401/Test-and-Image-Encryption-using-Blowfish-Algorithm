@@ -1,2 +1,2 @@
-# Test-and-Image-Encryption-using-Blowfish-Algorithm
+# Text-and-Image-Encryption-using-Blowfish-Algorithm
 The current issue is facing data leaks in high level message encryption for official uses. The problem I have chosen is, to pass any information in the form of text or image to lieutenants in the military about secret attacks to be made in several locations. This information has been tipped off from a strangers resident who is good at encrypting the data. To encrypt the information stranger used a system which has high encryption and decryption speed, compactness and flexible key size. I have an algorithm with these goals known as BLOW FISH Cryptosystem.
